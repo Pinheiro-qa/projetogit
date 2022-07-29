@@ -22,6 +22,7 @@ int main()
     else
     {
         // inicio dos calculos mais calculos - continuando a alteração
+        // uma alteracao para ver o vermelho
         x1 = ((-b) + sqrt(delta)) / (2 * a);
         x2 = ((-b) - sqrt(delta)) / (2 * a);
 
